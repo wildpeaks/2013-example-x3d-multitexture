@@ -1,2 +1,1 @@
-x3d-multi-texture
-=================
+Screenshots of the [MultiTexture test files](http://castle-engine.sourceforge.net/x3d_multi_texturing.php) in various X3D viewers.
